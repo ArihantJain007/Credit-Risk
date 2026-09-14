@@ -1,0 +1,44 @@
+# Virtual Environment
+ML-loan-default-prediction/
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.log
+*.db
+models/__pycache__/
+
+# Keep all model files (remove the exclusion rules)
+# We want ALL .pkl files to be tracked
+
+# Large data files (optional)
+data/*.csv
+data/*.xlsx
+
+# Images (optional)
+images/
