@@ -58,7 +58,7 @@ A **deployable credit risk tool** requiring only:
 
 ```bash
 # Clone and enter the repository
-git clone https://github.com/nafisalawalidris/Machine-Learning-Loan-Default-Prediction-Taipy-Integration.git
+git clone https://github.com/ArihantJain007/Credit-Risk.git
 cd Machine-Learning-Loan-Default-Prediction-Taipy-Integration
 
 # Create and activate virtual environment
